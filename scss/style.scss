@@ -1,0 +1,23 @@
+$secondary: #ab8421;
+
+#main-section {
+    margin-top: 75px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: block;
+}
+
+.navbar {
+    border-bottom: $secondary 3px solid;
+
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+}

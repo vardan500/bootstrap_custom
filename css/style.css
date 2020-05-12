@@ -1,0 +1,16 @@
+#main-section {
+  margin-top: 75px; }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: block; }
+
+.navbar {
+  border-bottom: #ab8421 3px solid; }
+  .navbar .navbar-toggler:focus,
+  .navbar .navbar-toggler:active,
+  .navbar .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none; }

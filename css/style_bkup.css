@@ -1,0 +1,23 @@
+.navbar {
+    border-bottom: #ab8421 3px solid;
+}
+
+.bg-frb-primary {
+    background-color: #0a382b;
+    color: white
+}
+
+.bg-frb-primary2 {
+    background-color: #4b4b4b;    
+}
+
+.bg-frb-secondary {
+    background-color: #ab8421;    
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: block;
+}
